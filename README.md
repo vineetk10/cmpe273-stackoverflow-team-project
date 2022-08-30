@@ -13,3 +13,7 @@
 ## Database Schema:    
 
 ![Screen Shot 2022-08-30 at 2 34 45 PM](https://user-images.githubusercontent.com/26499781/187547724-59f3f94a-a2f0-4072-a824-a486bfdecff9.png)
+
+## System Architecture Design
+
+![Screen Shot 2022-08-30 at 2 37 02 PM](https://user-images.githubusercontent.com/26499781/187547968-4eb356d0-a115-436c-b184-659304756eda.png)
